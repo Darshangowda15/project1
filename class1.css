@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+.c2{
+        border-radius:20px solid,black;
+        
+    }
+.container{
+        border:1px solid #696767 ;
+        padding: 40px 30px 10px 3opx;
+        background:#fff ;
+        font-family: sans-serif;
+        text-align: center;
+        border-radius: 1px;
+        color: rgb(35, 32, 25);
+    }
+.c1{
+    border: 2px;
+    width: 205px;
+    height: 40px;
+    background-color: #53bdeb;
+    border-radius: 6px;
+}
+input{
+    width: 200px;
+    height: 30px;
+}
